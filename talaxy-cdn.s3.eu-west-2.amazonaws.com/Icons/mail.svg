@@ -1,0 +1,12 @@
+<svg x="0" y="0" width="512" height="512" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+    <title>mail icon</title>
+    <desc>mail icon from the IconExperience.com G-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+    <g>
+        <path d="M16,64l480,0c8.8,0 16,7.2 16,16l0,352c0,8.8 -7.2,16 -16,16l-480,0c-8.8,0 -16,-7.2 -16,-16l0,-352c0,-8.8 7.2,-16 16,-16z" fill="#b1e3fb"/>
+        <path d="M16,448l480,0c8.8,0 16,-7.2 16,-16l-224.4,-196.35c-18.2,-15.95 -45,-15.95 -63.2,0l-224.4,196.35c0,8.8 7.2,16 16,16z" fill="#7fd3f9"/>
+        <path d="M16,64l480,0c8.8,0 16,7.2 16,16l-224.4,196.35c-18.2,15.95 -45,15.95 -63.2,0l-224.4,-196.35c0,-8.8 7.2,-16 16,-16z" fill="#dff3fd"/>
+        <path d="M0,80l224.4,196.35c18.2,15.95 45,15.95 63.2,0l224.4,-196.35l0,13.4l-201.55,205.35c-29.5,30.05 -79.4,30.05 -108.9,0l-201.55,-205.35z" fill="#4ec1f5"/>
+    </g>
+</svg>
